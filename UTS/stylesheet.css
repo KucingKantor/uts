@@ -1,0 +1,71 @@
+body {
+    background-color: #664343;
+    background-size: 100vw 100vh;
+    background-image: url(https://t4.ftcdn.net/jpg/03/51/23/71/360_F_351237160_Mig6uluMcfZXDrKWvWZu86KGhY7zcjKo.jpg);
+}
+
+div.a{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Fantasy' ,sans-serif;
+    
+}
+.atur{
+    margin-left: 600px;
+    font-size: 50px;
+    font-weight: 500;
+}
+.atur2{
+    margin-right: 600px;
+    font-size: 50px;
+    font-weight: 500;
+}
+.tengah{
+    text-align: center;
+    font-family: 'Fantasy',sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100%;
+}
+header{
+    margin-bottom: 0px;
+}
+p.con{
+    font-size: 19px;
+    font-style: italic;
+    text-align: center;
+}
+p.undang1{
+    margin-top: 1px;
+    text-align: center;
+}
+p.undang{
+    margin-bottom: 1px;
+    text-align: center;
+}
+.imn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+pre.an{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    border: dashed;
+    height: 130px;
+    margin-bottom: 40px;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    
+}

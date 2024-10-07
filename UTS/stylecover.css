@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/top-view-wedding-floral-frame_23-2148242391.jpg);
+    background-size: 100vw 100vh;
+}
+.acn {
+    height: 400px;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    
+}
+.text{
+    font-family: 'Fantasy', sans-serif;
+    font-size: 100px;
+    font-weight: 100;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: solid;
+    border-radius: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 700px;
+    margin-right: 700px;
+    border-color: black;
+    color: black;
+}
